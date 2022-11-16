@@ -1,0 +1,43 @@
+h1{
+  margin-left: 25px;
+  margin-right: 25px;
+  font-family:'Times New Roman', Times, serif;
+  color:white;
+  background-color:gray;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.dropdown label{
+  margin-left: 30%;
+  font-weight: bold;
+  
+}
+.dropdown select{
+  width:300px;
+  height:40px;
+  margin-left:30px;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ border-radius: 7px;
+ border: 8px white;
+padding: 10px;
+border: solid;
+
+}
+
+ select{
+  background-color:white;
+  margin-left: 1000px;
+  }
+
+  label{
+    
+    border-width: 3px;
+    
+  }
+  
+  body{
+    background-color: rgb(240, 250, 250);
+  }
+  
